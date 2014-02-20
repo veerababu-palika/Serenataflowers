@@ -1,0 +1,2 @@
+ERROR 2014-02-20 17:15:19,227 99727ms WindowServiceLog       GetProductIDs      - System.NullReferenceException: Object reference not set to an instance of an object.
+   at ProductXMLDAL.ProductXMLDAL.GetProductIDs() in D:\Serenata\4 Design and Development\ETM Serenata\Tasks\SerenataProductXMLs\ProductXMLDAL\ProductXMLDAL.cs:line 395
